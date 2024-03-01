@@ -8,7 +8,7 @@ const Hero = () => {
         <div className="uppercase text-text-primary text-5xl xl:text-7xl font-bold ">
           <p>
             Creative UI <br />
-            <span className="text-primary">Developer</span>
+            <span className="text-primary">Wadda Developer</span>
           </p>
         </div>
 

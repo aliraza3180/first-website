@@ -43,6 +43,12 @@ const Projects = () => {
             onClick={toggleSelect}
             type={selectedId === "4" ? "primary" : "secondary"}
           />
+          <Button
+            id={"5"}
+            title={"UI/UX"}
+            onClick={toggleSelect}
+            type={selectedId === "5" ? "primary" : "secondary"}
+          />
         </div>
       </div>
       <div className="flex gap-10 w-full items-center justify-evenly">
