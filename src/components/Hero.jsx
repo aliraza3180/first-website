@@ -27,7 +27,7 @@ const Hero = () => {
         </div>
       </div>
 
-      <div className="mt-8 xl:mr-10 -mr:10 xl:scale-125 ">
+      <div className="mt-8 xl:mr-10 -mr:10 xl:scale-125">
         <img src="/hero-img-bg.png" alt="" className="shadow-lg shadow-black" />
         <img src="/working-person.png" alt="" className="-mt-60 -ml-8" />
       </div>
