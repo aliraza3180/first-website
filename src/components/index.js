@@ -5,4 +5,6 @@ import Projects from "./Projects";
 import Contact from "./Contact";
 import Footer from "./Footer";
 import Button from "./Button";
-export { Navbar, Hero, About, Projects, Contact, Footer, Button };
+import ProjectCard from "./ProjectCard";
+
+export { Navbar, Hero, About, Projects, Contact, Footer, Button, ProjectCard };

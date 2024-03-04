@@ -3,7 +3,7 @@ import { Navbar, Hero, About, Projects, Contact, Footer } from "./components";
 
 const App = () => {
   return (
-    <div className="bg-background">
+    <main className="bg-background overflow-x-hidden">
       <div className="2xl:max-w-[1440px] mx-auto w-full">
         <Navbar />
         <Hero />
@@ -12,7 +12,7 @@ const App = () => {
         <Contact />
         <Footer />
       </div>
-    </div>
+    </main>
   );
 };
 

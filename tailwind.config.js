@@ -19,6 +19,7 @@ export default {
       screens: {
         xs: "480px",
         desktop: "1440px",
+        xxs: "320px",
       },
       backgroundImage: {
         "projects-texture": "url('/bg-img.png')",
