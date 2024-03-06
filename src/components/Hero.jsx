@@ -23,19 +23,22 @@ const Hero = () => {
               <span className="text-primary">Developer</span>
             </p>
           </motion.div>
-          <div className="flex gap-4 z-10 text-nowrap">
+          <motion.div
+            {...headContentAnimationDown}
+            className="flex gap-4 z-10 text-nowrap"
+          >
             <Button
               title="Hire Me"
               type="primary"
               buttonType={"button"}
-              href={"#contacts"}
+              href={"#contact"}
             />
             <Button
               title="Download CV"
               type="secondary"
               buttonType={"button"}
             />
-          </div>
+          </motion.div>
           <a
             href="#about"
             className="w-6 rounded-full h-10 border-primary border-2  items-center p-1.5 mx-auto my-16"
