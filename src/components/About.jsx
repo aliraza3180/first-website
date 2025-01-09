@@ -20,10 +20,9 @@ const About = () => {
           <img src="lightbulb.png" alt="" width={64} height={64} />
         </h2>
         <p className="text-text-primary xl:text-lg text-sm font-[100] xxs:text-sm sm:text-base">
-          Driven web developer with a knack for translating concepts into
-          dynamic digital solutions. Proficient in both front-end and back-end
-          technologies, dedicated to crafting engaging user experiences. Let's
-          partner to transform your vision into a compelling online presence.
+        Hi, I'm Ali Raza, a passionate Frontend Developer and Web Developer with expertise in React.js, Redux.js, JavaScript, Tailwind CSS, WordPress, PHP, and Shopify. I specialize in building dynamic web apps and custom eCommerce stores that deliver seamless, engaging user experiences.
+
+With a strong focus on UI/UX, responsive design, and performance optimization, I create solutions that are not only visually appealing but also functional and scalable. Whether you're looking to build a web app, a custom WordPress theme, or an eCommerce store, I'm dedicated to delivering high-quality, client-focused results.
         </p>
       </motion.div>
       <motion.div
