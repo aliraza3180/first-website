@@ -19,5 +19,47 @@
     "image": "/mp3.png",
     "technologies": ["#React", "#MongoDB", "ThreeJs", "Express"],
     "url": "https://narafashions.vercel.app/"
+  },
+  {
+    "id": "4",
+    "name": "E-Commerce App",
+    "image": "/mp4.png",
+    "technologies": ["#React", "#Tailwind CSS", "React Toastify"],
+    "url": "https://forever-by-ali.vercel.app/"
+  },
+  {
+    "id": "5",
+    "name": "Hoo-Bank",
+    "image": "/mp5.png",
+    "technologies": ["#React", "#Tailwind CSS", "Framer Motion"],
+    "url": "https://ali-hoobank.vercel.app/"
+  },
+  {
+    "id": "6",
+    "name": "GPT-3",
+    "image": "/mp6.png",
+    "technologies": ["#React", "#Tailwind CSS", "Framer Motion"],
+    "url": "https://ali-gpt3.vercel.app/"
+  },
+  {
+    "id": "7",
+    "name": "Real Estate",
+    "image": "/mp7.png",
+    "technologies": ["#React", "#Tailwind CSS", "Framer Motion"],
+    "url": "https://real-estate-by-ali.vercel.app/"
+  },
+  {
+    "id": "8",
+    "name": "Renegade Experts",
+    "image": "/mp8.png",
+    "technologies": ["#PHP", "#ThreeJs", "#Javascript" , "Wordpress"],
+    "url": "https://renegadeexperts.com/"
+  },
+  {
+    "id": "9",
+    "name": "Shopify Store(Pass: 123)",
+    "image": "/mp9.png",
+    "technologies": ["#Liquid", "#Javascript", "Shopify"],
+    "url": "https://renegadeexperts.com/"
   }
 ]

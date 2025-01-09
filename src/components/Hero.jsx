@@ -33,11 +33,18 @@ const Hero = () => {
               buttonType={"button"}
               href={"#contact"}
             />
-            <Button
-              title="Download CV"
-              type="secondary"
-              buttonType={"button"}
-            />
+            {/* Wrap the Button component in an anchor tag for download */}
+            <a
+              href="https://drive.google.com/file/d/1-PFK11aQhKDsLUaGPPW3M7eKtfFX3Yc_/view?usp=sharing" // Use the correct file ID here
+              target="_blank" // Open the link in a new tab
+              rel="noopener noreferrer" // Security best practice
+            >
+              <Button
+                title="Download CV"
+                type="secondary"
+                buttonType={"button"}
+              />
+            </a>
           </motion.div>
           <a
             href="#about"
